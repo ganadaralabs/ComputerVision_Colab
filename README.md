@@ -1,1 +1,1 @@
-# ComputerVision_Colab
+#컴퓨터 비전의 기초 
