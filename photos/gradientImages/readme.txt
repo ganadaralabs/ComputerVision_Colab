@@ -1,0 +1,3 @@
+gradient_linear.jpg
+gradient_radial.jpg
+gradient_rectangular.jpg
